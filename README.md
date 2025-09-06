@@ -1,4 +1,12 @@
+# sistem-informasi-pengelolan-kosan
+  Aplikasi ini dirancang untuk mempermudah proses booking kosan .
+=======
+
+<p align="center"><a href="https://filamentphp.com/" target="_blank"><img src="https://filament.ams3.digitaloceanspaces.com/452/OlHdpiKpFTJK0CHY9pYxNV6aaN7PcW-metaRmlsYW1lbnQgQ291cnNlLnBuZw%3D%3D-.png" width="400" alt="Filament Logo"></a></p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center"><a href="https://filamentphp.com/" target="_blank"><img src="https://midtrans.com/assets/img/Logo-Midtrans.png" width="400" alt="Filament Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
